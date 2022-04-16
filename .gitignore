@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+package-lock.json
+yarn.lock
+/es
+yarn.lock
+package-lock.json
+/dist
+/site
+/site.zip
+/vendors
+/release
+/external
+/package/lib
+/package/es
+/package/dist

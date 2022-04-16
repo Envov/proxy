@@ -1,0 +1,24 @@
+{
+  "name": "@envov/proxy",
+  "version": "0.0.2",
+  "description": "Simple Proxy Tools",
+  "main": "bin/proxy",
+  "bin": {
+    "proxy": "./bin/proxy.js"
+  },
+  "author": "1829767182@qq.com",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Envov/proxy"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.4",
+    "ini": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
