@@ -37,6 +37,6 @@ proxy ./proxy.ini
 ### others
 **The weight of the  configuration file is：**
 
-*  **first：proxy <configuration-file>**
+*  **first：proxy configuration-file.int **
 *  **second：proxy.ini file under proxy command directory**
 *  **third：~/proxy.ini **
