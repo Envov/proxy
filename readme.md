@@ -7,7 +7,7 @@
 npm install @envov/proxy -g 
 ```
 
-### 1、Create any file in anywhere, for example:
+### 1、Create any file  anywhere, for example:
 ```shell
 touch ./proxy.ini
 ```
