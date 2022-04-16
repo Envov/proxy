@@ -7,7 +7,7 @@
     "proxy": "./bin/proxy.js"
   },
   "author": "1829767182@qq.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Envov/proxy"
