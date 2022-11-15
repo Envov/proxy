@@ -1,6 +1,6 @@
 {
   "name": "@envov/proxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Proxy Tools",
   "main": "bin/proxy",
   "bin": {
